@@ -13,7 +13,7 @@
  &nbsp;
 
  - 🏮 Nelumbo <br>
-   ╰──↬ `cross-arch, faceted PE memory viewer`
+   ╰──↬ `cross-arch memory analysis tool`
  &nbsp;
 
 ( `🔗` ) &ensp; Socials:  <br>

@@ -1,16 +1,20 @@
-## Hi there 👋
+## ![2025_03_25_0v3_Kleki](https://github.com/user-attachments/assets/85f8dee5-c8ef-4809-b170-88089f53cf2f)
 
-<!--
-**astralo-7/astralo-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+about me: hobbyist hacker (and writer woo woo) primarily interested in binary exploitation, reverse engineering, and offensive security 
 
-Here are some ideas to get you started:
+( `☘️` ) &ensp;Projects:  <br>
+ - 🦢 BettyOS <br>
+   ╰──↬ `experimental operating system`
+ &nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - ⚡ Godspeed <br>
+   ╰──↬ `injector with extreme optimizations`
+ &nbsp;
+
+ - 🏮 Nelumbo <br>
+   ╰──↬ `cross-arch, faceted PE memory viewer`
+ &nbsp;
+
+( `🔗` ) &ensp; Socials:  <br>
+  &nbsp; &nbsp; &nbsp;  - ⚫ Discord: astralo7__26809 <br>
+  

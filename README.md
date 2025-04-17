@@ -9,7 +9,7 @@
  &nbsp;
 
  - 🧟 Frankenstein <br>
-   ╰──↬ `windows bootkit + driver`
+   ╰──↬ `windows bootkit`
  &nbsp;
 
  - 🏮 Nelumbo <br>

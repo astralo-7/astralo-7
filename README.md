@@ -9,7 +9,7 @@
  &nbsp;
 
  - 🧟 Frankenstein <br>
-   ╰──↬ `windows bootkit`
+   ╰──↬ `windows UEFI rootkit/bootkit`
  &nbsp;
 
  - 🏮 Nelumbo <br>

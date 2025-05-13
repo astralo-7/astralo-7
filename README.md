@@ -16,6 +16,10 @@
    ╰──↬ `cross-arch, cross-platform memory analysis tool`
  &nbsp;
 
+ - ☀️ Icarus <br>
+   ╰──↬ `modular hypervisor toolkit`
+ &nbsp;
+
 ( `🔗` ) &ensp; :  <br>
   &nbsp; &nbsp; &nbsp;  - ⚫ Discord: astralo7__26809 <br>
   

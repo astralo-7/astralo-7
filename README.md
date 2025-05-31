@@ -4,7 +4,7 @@
 
  
 ( `☘️` ) &ensp;Projects:  <br>
- - 🦢 BettyOS <br>
+ - ✌🏾 BettyOS <br>
    ╰──↬ `experimental operating system`
  &nbsp;
 

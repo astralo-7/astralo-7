@@ -5,7 +5,7 @@
  
 ( `☘️` ) &ensp;Projects:  <br>
  - ✌🏾 BettyOS <br>
-   ╰──↬ `experimental operating system`
+   ╰──↬ `black-led experimental operating system`
  &nbsp;
 
  - 🧟 Frankenstein <br>

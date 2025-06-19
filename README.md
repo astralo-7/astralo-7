@@ -5,19 +5,15 @@
  
 ( `☘️` ) &ensp;Projects:  <br>
  - ✌🏾 BettyOS <br>
-   ╰──↬ `black-led experimental operating system`
+   ╰──↬ `black-led experimental operating system built from the ground up`
  &nbsp;
 
- - 🧟 Frankenstein <br>
-   ╰──↬ `windows UEFI rootkit/bootkit`
- &nbsp;
-
- - 🏮 Nelumbo <br>
-   ╰──↬ `cross-arch, cross-platform memory analysis tool`
+ - 🦜 Kazooie <br>
+   ╰──↬ `network tracer and analyzer`
  &nbsp;
 
  - ☀️ Icarus <br>
-   ╰──↬ `modular hypervisor toolkit`
+   ╰──↬ `easy-bake hypervisor API`
  &nbsp;
 
 ( `🔗` ) &ensp; :  <br>
